@@ -30,6 +30,7 @@ namespace BoulangerieEtArroseur.Compteur.Source
          */
         public int GetNombreArroseurs()
         {
+
             return 0;
         }
 
